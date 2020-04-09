@@ -1,0 +1,1 @@
+![cruz](resource:assets/markdowns/auction/auction_1.png)

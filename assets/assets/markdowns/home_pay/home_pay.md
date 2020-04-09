@@ -1,0 +1,1 @@
+![cruz](resource:assets/markdowns/home_pay/home_pay_1.png)

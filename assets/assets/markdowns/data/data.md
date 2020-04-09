@@ -1,0 +1,1 @@
+![cruz](resource:assets/markdowns/data/data_1.png)

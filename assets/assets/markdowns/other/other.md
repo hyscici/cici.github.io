@@ -1,0 +1,6 @@
+![cruz](resource:assets/markdowns/other/other_1.jpg)
+![cruz](resource:assets/markdowns/other/other_2.jpg)
+![cruz](resource:assets/markdowns/other/other_3.jpg)
+![cruz](resource:assets/markdowns/other/other_4.jpg)
+![cruz](resource:assets/markdowns/other/other_5.jpg)
+![cruz](resource:assets/markdowns/other/other_6.jpg)
