@@ -1,0 +1,1 @@
+![cruz](resource:assets/markdowns/elfin5/elfin5_1.png)
